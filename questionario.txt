@@ -1,0 +1,192 @@
+0. Quais as semelhanças e diferenças entre o PHP e o Node.js? E onde aplicar cada uma delas?
+
+    Semelhanças: Ambos são mais comumente utilizados para estruturação de aplicações web que necessitam de back-end;
+    Diferenças: O PHP é uma linguagem de script do lado do servidor que pode incorporar outras linguagens como HTML, CSS e JavaScript   para a exibição WEB, por outro lado o NODE.js é uma linguagem baseada no JavaScript que permite aplicações do lado do servidor.
+
+1. Complete a sentença
+
+    Analise a sentença abaixo e selecione a opção que a completa corretamente:
+    Programar o [back-end] significa manipular os dados de um sistema que são guardados no
+    [servidor] e fornecê-los para o [front-end].
+
+    Opção C: back-end / servidor / front-end
+
+
+
+2. Sobre o NPM, afirme:
+
+    Como podemos verificar a versão do NPM?
+
+    Opção C: npm -v
+
+
+
+3. Fluxo do Mercado Livre
+
+    Enumere as opções abaixo de acordo com o fluxo do processo de uma compra na página do
+    Mercado Livre:
+
+    1- Front-end envia o pedido de compra para o back-end.
+    2- Back-end valida a compra do usuário e envia a resposta para o front-end.
+    3- Usuário informa os dados do cartão.
+    4- Front-end exibe o resultado da compra.
+
+    Opção 4: 3-1-2-4
+
+
+
+4. Sobre aplicações em Node.js
+
+    Que tipo de aplicações podemos construir com o Node.js?
+
+    Opção D: Todas as opções estão corretas
+
+
+
+5. Sobre o back-end
+
+    Quanto a camada back-end, analise as afirmações:
+
+    I- Parte do software responsável por processar os dados.
+    II- Camada do software que se preocupa apenas com a exibição dos dados.
+    III- Se preocupa com a experiência de navegação do usuário.
+    IV- Responsável pelas tarefas que são executadas no servidor.
+
+    Selecione a alternativa correta:
+
+    Opção C: As opções I e IV são verdadeiras
+
+
+
+6. Sobre o Node.js
+
+    Porque o Node.js é recomendado aos desenvolvedores front-end que querem aprender back-
+    end?
+
+    Opção D: Porque a sintaxe do Node.js é o JavaScript
+
+
+
+7. Sobre o Node, afirme:
+
+    O Node.js permite rodar código JavaScript onde?
+
+    Opção B: No servidor
+
+
+
+8. Sobre back-end, responda:
+
+    Qual o papel do back-end?
+
+    Opção C: Parte do software responsável por processar os dados
+
+
+
+9. Sobre o Node.js
+
+    Sobre o Node.js, considere as afirmações:
+
+    opção C: As opções I, III e IV estão corretas.
+
+
+
+10. Sobre o Node, afirme:
+
+   O Node.js permite rodar código JavaScript onde?
+
+    Opção c: No servidor
+
+
+
+11. O que é Node.js
+
+    Sobre o Node.js, selecione a opção correta:
+
+    Opção D: Ambiente que executa códigos JavaScript no lado do servidor da aplicação
+
+
+
+12. Sobre o Node.js
+
+    Porque o Node.js é recomendado aos desenvolvedores front-end que querem aprender back-
+    end?
+
+    Opção D: Porque a sintaxe do Node.js é o JavaScript
+
+
+
+13. Vantagens do Node.js
+
+    Sobre as vantagens do Node.js, considere as afirmações:
+    I- Com o Node.js podemos construir aplicações escaláveis.
+    II- O Node.js nos permite construir aplicações de alta performance.
+    III- O Node.js é uma plataforma server-side e com ele é possível criar aplicações JavaScript
+    standalone, ou seja, que não dependem de um navegador para a execução
+    IV- O Node.js permite executar códigos JavaScript no navegador.
+
+    Opção A: As opções I, II e III estão corretas
+
+14. Qual o papel de um gerenciador de dependências
+
+    Sobre gerenciador de dependências, afirme:
+
+    Opção D: Todas as afirmativas estão corretas
+
+
+
+15. Características do back-end
+
+    Considere as afirmações abaixo sobre as características da camada back-end:
+    I- Fornece dados para o front-end exibir na tela do usuário.
+    II- Valida uma compra junto a financeira de um cartão.
+    III- Se preocupa com a aparência e não com os dados.
+    IV- Cuida da inteligência do software, ou seja, do motor da aplicação.
+
+    Selecione a opção correta:
+
+    Opção D: As opções I, II e IV estão corretas
+
+
+
+16. Sobre dependências
+
+    Analise as afirmações abaixo sobre dependências de um sistema e assinale a alternativa
+    correta:
+
+    I- Dependências são recursos externos necessários para o funcionamento da aplicação
+    II- São módulos que nos auxiliam a desenvolver aplicações
+    III- São instaladas através dos gerenciadores, como o NPM.
+    IV- Dependências são recursos externos que não estão sendo utilizados no sistema.
+
+    Opção A: As opções I, II e III estão corretas.
+
+
+
+17. Vantagens do Node.js
+
+    Sobre as vantagens do Node.js, considere as afirmações:
+
+    I- Com o Node.js podemos construir aplicações escaláveis.
+    II- O Node.js nos permite construir aplicações de alta performance.
+    III- O Node.js é uma plataforma server-side e com ele é possível criar aplicações JavaScript
+    standalone, ou seja, que não dependem de um navegador para a execução
+    IV- O Node.js permite executar códigos JavaScript no navegador.
+
+    Opção D: As opções I, II e III estão corretas.
+
+
+
+18. Sobre o NPM
+
+    Sobre o gerenciador de pacotes NPM, considere as afirmações:
+
+    I- O NPM é instalado automaticamente durante a instalação do Node.
+    II- O NPM automatiza o processo de instalação de dependências.
+    III- O NPM não é tão importante para uma aplicação Node.js e é pouco utilizado pelos
+    programadores.
+    IV- O NPM é uma ferramenta essencial para o desenvolvimento de aplicações Node.js.
+
+    Selecione a opção correta:
+
+    Opção A: As opções I, II e IV estão corretas
